@@ -1,0 +1,15 @@
+pdfminer
+numpy
+moviepy
+requests
+nltk
+gtts
+gensim
+scipy
+boto3
+gTTS
+flask
+flask-api
+watson_developer_cloud
+pandas
+sklearn
