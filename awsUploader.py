@@ -3,7 +3,7 @@
 # sudo apt-get install awscli
 # aws configure
 # Access key ID,Secret access key
-# AKIAJ3V3GOC2QCVNBBPQ,OJivGxUbh14OgCHmTYSdREScj/gFQkrh5juk5MvX
+# <Configure AWS Access Keys>
 
 import boto3
 
